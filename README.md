@@ -38,7 +38,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=emlanfranconi&theme=radical)](https://git.io/streak-stats)&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emenylouu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emlanfranconi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 <a href="https://github.com/emlanfranconi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emlanfranconi&show_icons=true&theme=radical&line_height=27" alt="Em's github stats"/>
